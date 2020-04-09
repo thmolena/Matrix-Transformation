@@ -1,9 +1,7 @@
 # A10: PPM
 
 
-Name 1: Thy H. Nguyen
-
-Name 2 (if needed): No needed
+Main author: Thy H. Nguyen
 
 Repository Link: https://github.com/2019-fall-csc-226/a10-ppm-nguyent2-a10.git
 
