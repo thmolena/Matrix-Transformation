@@ -1,5 +1,5 @@
 ######################################################################
-# Author: Thy H. Nguyen
+# Main Author: Thy H. Nguyen
 # Username: nguyent2
 #
 # Assignment: A10: PPM
